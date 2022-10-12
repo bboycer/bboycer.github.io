@@ -6,20 +6,24 @@
         color: PowderBlue;
         font-family: "Garamond";
         font-size: 25px;
+        align-items: center;
     }
     
     h2{
         color: paleturquoise;
         font-family: "Garamond";
         font-size: 15px;
+        align-items: center;
     }
     h3{
         color: lightblue;
         font-family: "Garamond";
         font-size: 20px;
+        align-items: center;
     }
     h4{
         color: PowderBlue;
         font-famiy: "Courier New"; 
-        font-size: 15px; 
+        font-size: 15px;
+        align-items: center;
       
