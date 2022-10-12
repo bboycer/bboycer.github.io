@@ -1,0 +1,22 @@
+
+    body{
+        background-color: whitesmoke;
+    }
+ p.light {
+  font-weight: lighter;
+  background-color: azure; 
+}
+    h1{
+        color: lightblue;
+    }
+    
+    h2{
+        color: paleturquoise;
+    }
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;   
+      
