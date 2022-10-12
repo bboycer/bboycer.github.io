@@ -4,7 +4,8 @@
     }
  p.light {
   font-weight: lighter;
-  background-color: azure; 
+  font-family: "Courier New";
+  font-size: 10px;
 }
     h1{
         color: lightblue;
@@ -15,8 +16,13 @@
     }
 p.thick {
   font-weight: bold;
+  font-family: "Garamond";
+  font-size: 12px;
+  
 }
 
 p.thicker {
-  font-weight: 900;   
+  font-weight: 900;
+  font-family: "Garamond";
+  font-size: 15px;
       
